@@ -1,61 +1,110 @@
-## Hi there! 👋
+# Michelle Tembe
 
-# Hi there! 👋
+```typescript
+const profile = {
+  name: "Michelle Tembe",
+  bio: "Computer & Telecom Engineering student | Learning Cloud & DevOps ☁️
+AWS • Linux • Networking",
+  skills: [
+    "HTML5",
+    "CSS3",
+    "MySQL",
+    ".NET",
+    "AWS",
+    "Terraform",
+    "GitHub Actions",
+    "Java",
+    "JavaScript",
+    "Python"
+  ],
+}
+```
 
-I'm **Michelle Tembe** — a Computer & Telecom Engineering student from **Mozambique**. I focus on Cloud & DevOps ☁️ and enjoy building reliable infrastructure and automations. Currently learning and working with AWS, Linux, and networking technologies.
+## 👀 Visitor Count
 
-Tagline: "Building dependable cloud foundations — one automation at a time."
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
-## About Me
+## 🏆 GitHub Trophies
 
-## About Me
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
 
-- Name: **Michelle Tembe**
-- Role: Computer & Telecom Engineering student
-- Location: Mozambique
-- Bio: "Computer & Telecom Engineering student | Learning Cloud & DevOps ☁️\nAWS • Linux • Networking"
-- Current: Student / building a personal portfolio of cloud & infrastructure projects
+## 📊 GitHub Stats
 
-Currently learning and focusing on:
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
-- AWS (core services & IaC)
-- Linux / shell automation
-- Networking fundamentals and cloud infrastructure
+## 🔝 Most Used Languages
 
-I share projects and experiments in a personal portfolio repository focused on cloud infrastructure, automation, and documentation.
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=10&theme=dark"/>
+</div>
 
-## Skills & Technologies
+## 🔥 Contribution Streak
 
-aws,linux,docker,kubernetes,terraform,ansible,bash,git,github,githubactions,nginx,py
+<!-- ⚠️ Important: Replace 'YOUR-USERNAME' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=false" />
+</div>
 
-## Top Projects
+## 💻 Tech Stack
 
-## Top Projects
+```json
+{
+  "frontend": [
+    "HTML5",
+    "CSS3"
+  ],
+  "backend": [
+    "MySQL",
+    ".NET"
+  ],
+  "devops": [
+    "AWS",
+    "Terraform",
+    "GitHub Actions"
+  ],
+  "languages": [
+    "Java",
+    "JavaScript",
+    "Python"
+  ]
+}
+```
 
-1. [Michelle-Tembe](https://github.com/Michelle-Tembe/Michelle-Tembe)
-   - Description: My personal portfolio of cloud and infrastructure projects
-   - Stars: ⭐ 1
-   - Forks: 0
-   - Open issues: 0
-   - Primary language: N/A (infrastructure, docs)
-   - Last updated: 2026-01-29
+## 🌐 Socials
 
-Notes:
-- This repository is the primary showcase of my cloud and infrastructure work. As I add more projects (IaC templates, automation scripts, labs), they'll appear here and be pinned.
+```javascript
+const socials = {
+  linkedin: "michelle-tembe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+  instagram: "_michelle_tembe?igsh=NG1qZ2hhMTV1azRw&utm_source=qr",
+}
+```
 
-## Latest Blog Posts
+<div>
+<a href="https://www.instagram.com/_michelle_tembe?igsh=NG1qZ2hhMTV1azRw&utm_source=qr"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/michelle-tembe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</div>
 
-## Latest Blog Posts
+## 📫 How to reach me
 
-I don't have a public blog linked on my GitHub profile right now. If I publish articles or walkthroughs (cloud labs, IaC tutorials, troubleshooting guides), they'll be listed here.
+```javascript
+const contact = {
+  email: "michellesonio703@gmail.com",
+}
+```
 
-In the meantime, you can follow my professional updates on LinkedIn:
-- 🔗 https://www.linkedin.com/in/michelle-tembe
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
 
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/michelle-tembe"}
-
-## Certifications
-
-- [Certification Name](link-to-certificate) - Issuing organization, Year
+process.exit(0); // Until next time 👋
+```

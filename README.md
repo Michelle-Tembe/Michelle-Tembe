@@ -1,4 +1,4 @@
-<h1 align="center">🧛‍♀️ Hi, I'm Michelle Tembe</h1>
+<h1 align="center"> Hi, I'm Michelle Tembe</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-AWS-6272a4?style=for-the-badge&logo=amazonaws&logoColor=white"/>

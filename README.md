@@ -11,8 +11,6 @@
 
 > Engenheira em formação, focada em criar soluções funcionais. 🚀
 
----
-
 ### 🛠️ Tecnologias
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,15 +36,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michelle-Tembe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
----
 
 ### 🐍 My GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Michelle-Tembe/Michelle-Tembe/output/github-contribution-grid-snake.svg" alt="Snake game" />
 </p>
-
----
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Michelle-Tembe/Michelle-Tembe/output/github-contribution-grid-snake.svg" alt="Snake game" />

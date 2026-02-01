@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" width="200" />
+</p>
+
+
 # Olá, eu sou a Michelle Tembe! 👋
 
 <p align="left">

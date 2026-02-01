@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6emR6YnZ3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/dgT0gEjoisTMgzZ19X/giphy.gif" width="30" /> <b>Computer Engineer | Software Engineering Student</b>
 </p>
 
-> Engenheira em formação, focada em criar soluções elegantes e funcionais. 🚀
+> Engenheira em formação, focada em criar soluções funcionais. 🚀
 
 ---
 

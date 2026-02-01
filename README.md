@@ -1,17 +1,19 @@
 # Olá, eu sou a Michelle Tembe! 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Michelle%20Tembe&fontSize=70&animation=twinkling" />
+</p>
+
 ### 🎓 Computer Engineer | Software Engineering Student
-Engenheira em formação, apaixonada por criar soluções elegantes e funcionais. Atualmente focada em desenvolvimento web e novas tecnologias.
+Engenheira em formação, focada em criar soluções elegantes e funcionais.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Skills & Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,linux,aws&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -26,9 +28,6 @@ Engenheira em formação, apaixonada por criar soluções elegantes e funcionais
 
 ### 📫 Vamos conectar?
 <p align="left">
-<a href="https://linkedin.com/in/TEU-LINK-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:teuemail@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://michelle-tembe.github.io/LINKS/"><img src="https://img.shields.io/badge/-Meu%20Portfólio-8E44AD?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"></a>
+<a href="https://linkedin.com/in/michelle-tembe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:teuemail@exemplo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-<img src="https://raw.githubusercontent.com/mshick/github-readme-streak-stats/master/demo/nightowl.gif" width="100%" />

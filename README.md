@@ -5,7 +5,7 @@
 </p>
 
 ### 🎓 Computer Engineer | Software Engineering Student
-Engenheira em formação, focada em criar soluções elegantes e funcionais.
+Engenheira em formação, focada em criar soluções funcionais.
 
 ---
 

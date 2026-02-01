@@ -17,17 +17,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,linux,aws&theme=dark" />
-  </a>
-</p>
-
----
-
-### 📊 Estatísticas de Desenvolvedora
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Michelle-Tembe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michelle-Tembe&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
+  </p>
 ---
 
 ### 📫 Contacto & Redes
@@ -48,3 +38,19 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Michelle-Tembe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+---
+
+### 🐍 My GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Michelle-Tembe/Michelle-Tembe/output/github-contribution-grid-snake.svg" alt="Snake game" />
+</p>
+
+---
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Michelle-Tembe/Michelle-Tembe/output/github-contribution-grid-snake.svg" alt="Snake game" />
+</p>
+
+
+

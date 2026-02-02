@@ -13,7 +13,7 @@
 ### 🛠️ Tecnologias
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,linux,aws&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,terraform,linux,aws&theme=dark" />
   </p>
 
 ### 📫 Contacto & Redes

@@ -15,7 +15,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode,linux,aws&theme=dark" />
   </p>
----
 
 ### 📫 Contacto & Redes
 <p align="left">

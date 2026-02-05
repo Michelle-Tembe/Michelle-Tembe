@@ -3,7 +3,7 @@
 </p>
 
 
-# Olá, eu sou a Michelle Tembe! 👋
+# Hi, i'm Michelle Tembe! 👋
 
 <b>Computer Engineer | Software Engineering Student</b>
 </p>

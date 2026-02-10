@@ -5,7 +5,8 @@
 
 # Hi, i'm Michelle Tembe! 👋
 
-<b>Computer Engineer | Software Engineering Student</b>
+<b>Computer Engineering & Telecommunications Student
+Learning Cloud Computing & Software Development</b>
 </p>
 
 > Engenheira em formação, focada em criar soluções funcionais. 🚀
